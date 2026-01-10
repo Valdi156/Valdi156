@@ -1,11 +1,9 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=pixel&color=0:0f0c29,50:302b63,100:00f5ff&height=260&section=header&text=VALDI&fontSize=64&fontColor=ffffff&animation=fadeIn" />
-</p>
 
 <p align="center">
-  <!-- GANTI LINK INI DENGAN AVATAR KAMU SENDIRI -->
-  <img src="https://avatars.githubusercontent.com/Valdi156" width="140" style="border-radius:50%" />
+  <img
+    src="https://avatars.githubusercontent.com/Valdi156?s=140" width="140" height="140"/>
 </p>
+
 
 <h1 align="center">👾 Valdi</h1>
 <h3 align="center">Front-End Developer • UI/UX Designer • Student</h3>
