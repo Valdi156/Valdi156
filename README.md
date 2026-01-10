@@ -24,7 +24,7 @@
 🎮 Role   : Front-End Web Developer
 🎨 Focus  : UI Kit & UI/UX Design
 📚 Level  : Student (Still Learning & Improving)
-🧩 Style  : Pixel • Neon • Clean • Modern
+🧩 Style  : Clean • Simple • Interesting  • Modern
 ```
 I design and build **pixel-perfect user interfaces**  
 with a strong focus on **UX thinking, consistency, and clean implementation**.
