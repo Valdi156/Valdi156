@@ -98,7 +98,20 @@ with a strong focus on **UX thinking, consistency, and clean implementation**.
   <a href="https://discord.com/users/1277927807787335685">
     <img src="https://img.shields.io/badge/Discord-Chat-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
   </a>
+
+  <a href="https://wa.me/6282229569749">
+    <img src="https://img.shields.io/badge/WhatsApp-Chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+  </a>
+
+  <a href="https://www.instagram.com/vallkimyy?igsh=MW4yd2ljc2xuc2owcg==">
+    <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+
+  <a href="https://www.linkedin.com/in/vivaldi-undefined-b89619372?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
 </p>
+
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=pixel&color=0:00f5ff,100:0f0c29&height=120&section=footer" />
