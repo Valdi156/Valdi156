@@ -64,17 +64,23 @@ with a strong focus on **UX thinking, consistency, and clean implementation**.
 
 ---
 
-## 📊 TOP LANGUAGES
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Valdi156&layout=compact&theme=tokyonight&hide_border=true&title_color=00f5ff" />
-</p>
+## 📊 My Fav
+- 🟩 **HTML / CSS** ██████████ 100%
+- 🟨 **JavaScript** ████████░░ 80%
+- 🟦 **Tailwind CSS** ████████░░ 80%
+- 🟪 **Flutter (UI)** ██████░░░░ 60%
+- 🎨 **UI Kit Design** ██████████ 100%
+- 🧠 **UX Thinking** █████████░░ 90%
 
 ---
 
-## 📊 GITHUB STATS
+## 🧪 DESIGN LAB
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Valdi156&show_icons=true&theme=tokyonight&hide_border=true&title_color=00f5ff&icon_color=a855f7" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Valdi156&theme=tokyonight&hide_border=true&ring=00f5ff&fire=ff4dff" height="160"/>
+  <img src="https://skillicons.dev/icons?i=figma,html,css,js,tailwind,flutter&theme=dark" />
+</p>
+
+<p align="center">
+  <i>Where ideas turn into pixel-perfect interfaces.</i>
 </p>
 
 ---
@@ -86,9 +92,10 @@ with a strong focus on **UX thinking, consistency, and clean implementation**.
 
 ---
 
-## 🏆 GITHUB TROPHIES
+## 🕹️ PLAYER PROFILE
+
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Valdi156&theme=discord&no-frame=true&column=4" />
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=12&duration=3000&pause=800&color=00F5FF&center=true&vCenter=true&width=500&lines=PLAYER:+VALDI;CLASS:+FRONT-END+DEV;SPECIALTY:+UI%2FUX+DESIGN;STYLE:+PIXEL+%26+NEON" />
 </p>
 
 ---
