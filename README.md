@@ -32,19 +32,6 @@ with a strong focus on UX thinking, consistency, and clean implementation.
 <p align="center"> <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,flutter,figma,git,github&theme=dark" /> </p>
 🎨 DESIGN & FRONT-END SKILLS
 <table width="100%"> <tr> <td width="40">🎨</td> <td><b>UI Kit Design</b><br/>Scalable, reusable, and consistent UI components</td> </tr> <tr> <td>🧠</td> <td><b>UI / UX Design</b><br/>User-centered design with strong usability & hierarchy</td> </tr> <tr> <td>🧩</td> <td><b>Design System</b><br/>Tokens, typography scale, spacing & component rules</td> </tr> <tr> <td>🖥️</td> <td><b>Landing Page UI</b><br/>Clean, modern, and conversion-focused layouts</td> </tr> <tr> <td>⚙️</td> <td><b>Front-End Implementation</b><br/>Turning designs into responsive & pixel-perfect code</td> </tr> </table>
-📊 MY SKILLS
-
-🟩 HTML / CSS ██████████ 100%
-
-🟨 JavaScript ████████░░ 80%
-
-🟦 Tailwind CSS ████████░░ 80%
-
-🟪 Flutter (UI) ██████░░░░ 60%
-
-🎨 UI Kit Design ██████████ 100%
-
-🧠 UX Thinking █████████░░ 90%
 
 🎮 PLAYER STATISTICS
 <div align="center">
@@ -64,8 +51,7 @@ with a strong focus on UX thinking, consistency, and clean implementation.
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Valdi156&theme=tokyo-night&area=true&hide_border=true" height="300" />
 
 </div>
-🧪 DESIGN LAB
-<p align="center"> <img src="https://skillicons.dev/icons?i=figma,html,css,js,tailwind,flutter&theme=dark" /> </p> <p align="center"> <i>Where ideas turn into pixel-perfect interfaces.</i> </p>
+
 🌐 CONNECT WITH ME
 <p align="center"> <a href="https://discord.com/users/1277927807787335685"> <img src="https://img.shields.io/badge/Discord-Chat-5865F2?style=for-the-badge&logo=discord&logoColor=white"/> </a> <a href="https://wa.me/6282229569749"> <img src="https://img.shields.io/badge/WhatsApp-Chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/> </a> <a href="https://www.instagram.com/vallkimyy"> <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> </a> <a href="https://www.linkedin.com/in/vivaldi"> <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> </p>
 <p align="center"> <img src="https://capsule-render.vercel.app/api?type=pixel&color=0:00f5ff,100:0f0c29&height=120&section=footer" /> </p> <p align="center"> <i>🕹️ “Good UI is invisible. Great UI feels alive.”</i> </p> ```
