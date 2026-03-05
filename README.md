@@ -49,7 +49,7 @@ with a strong focus on UX thinking, consistency, and clean implementation.
 </div> <br/> 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Valdi156&theme=tokyo-night&area=true&hide_border=true&v=2" />
+<img src="https://github-readme-stats.vercel.app/api?username=Valdi156&show_icons=true&theme=tokyonight" />
 
 </div>
 
