@@ -46,7 +46,8 @@ with a strong focus on UX thinking, consistency, and clean implementation.
 
 <img src="https://streak-stats.demolab.com?user=Valdi156&theme=tokyonight&hide_border=true" height="165" />
 
-</div> <br/> <div align="center">
+</div> <br/> 
+<div align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Valdi156&theme=tokyo-night&area=true&hide_border=true" height="300" />
 
